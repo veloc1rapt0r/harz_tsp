@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="https://harzwandern.jansurlaub.de">
+<metadata>
+  <name>HWN_Grenzweg.gpx</name>
+  <desc>selbstverfasste standalone GPX-Datei</desc>
+  <author>
+   <name>Jan Peters</name>
+  </author>
+</metadata>
+<wpt lat="51.885683333" lon="10.646316667">
+  <ele>257.0000000</ele>
+  <name>9901 Jungborn</name>
+  <cmt>Jungborn</cmt>
+  <desc>Der "Jungborn" war die erste Naturheilstätte in Deutschland und wurde von dem Lebensreformer Adolf Just im Juni 1896 eröffnet. Während und nach dem 2. Weltkrieg wurde das Gelände unterschiedlich genutzt, ehe die Gebäude im Zuge der innerdeutschen Grenzsicherung abgerissen wurden. Der Förderverein Jungborn Harz e.V. hat sich die Wiederbelebung der Jungborn-Idee zur Aufgabe gemacht.</desc>
+</wpt>
+<wpt lat="51.617133333" lon="10.639016667">
+  <ele>447.0000000</ele>
+  <name>9902 Zwei-Länder-Eiche</name>
+  <cmt>Zwei-Länder-Eiche</cmt>
+  <desc>Die ehemalige innerdeutsche Grenze verlief mitten durch die beiden Stämme der Zweiländereiche im Ellricher Stadtwald.</desc>
+</wpt>
+<wpt lat="51.641516667" lon="10.702333333">
+  <ele>580.0000000</ele>
+  <name>9903 Dreiländerstein</name>
+  <cmt>Dreiländerstein</cmt>
+  <desc>Der Dreländerstein wurde im Jahre 1749 gesetzt und befindet sich zwischen Hohegeiß, Rothsütte und Benneckenstein. Hier trafen die Länder Herzogtum Braunschweig, Königreich Preußen und das Gräflich Wernigeröder Forstgebiet aufeinander. Während der teilung Deutschlands bildete der Stein den Grenzpunkt zwischen Deutschland und der DDR. Heute markiert er die Grenze zwischen Thüringen, Sachsen-Anhalt und Niedersachsen.</desc>
+</wpt>
+</gpx>

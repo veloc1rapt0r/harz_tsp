@@ -1,0 +1,10 @@
+this may also be used for calculating routes between 2 points
+https://trackprofiler.com/
+parse and create my own gpx
+https://pypi.org/project/gpxpy/
+article about plotting gpx
+https://medium.com/@bmxallemand/how-to-read-visualize-modify-and-save-gpx-files-with-python-12f53c24a215
+wrapper for komoot
+https://github.com/Tsadoq/kompy
+maybe extract all points from komoot gpx, plot lines between them using this package
+https://github.com/komoot/staticmap
