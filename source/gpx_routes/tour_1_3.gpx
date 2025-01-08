@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="51.841649" lon="10.5799757">
+        <ele>555.0</ele>
+        <time>2010-02-16T11:25:59Z</time>
+        <name>HWN001 Eckertalsperre</name>
+        <cmt>Eckertalsperre (Staumauer)</cmt>
+        <desc>Eckertalsperre (Staumauer)</desc>
+        <sym>Post Office</sym>
+        <extensions>
+          <http://www.garmin.com/xmlschemas/GpxExtensions/v3:WaypointExtension>
+            <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayMode>SymbolAndName</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayMode>
+          </http://www.garmin.com/xmlschemas/GpxExtensions/v3:WaypointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="51.84415" lon="10.61161">
+        <ele>567.0</ele>
+        <time>2024-01-29T17:36:58Z</time>
+        <name>HWN003 Am Kruzifix</name>
+        <cmt>Am Kruzifix (Schutzhütte)</cmt>
+        <desc>Am Kruzifix (Schutzhütte)</desc>
+        <sym>Post Office</sym>
+        <extensions>
+          <http://www.garmin.com/xmlschemas/GpxExtensions/v3:WaypointExtension>
+            <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayMode>SymbolAndName</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayMode>
+          </http://www.garmin.com/xmlschemas/GpxExtensions/v3:WaypointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
