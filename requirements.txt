@@ -1,0 +1,16 @@
+# basics
+matplotlib
+numpy
+Pillow
+pandas
+
+# gpx
+gpxpy
+jupyter
+# for some reason kompy is not installing properly
+# kompy # komoot api
+ezgpx # plot gpx files
+
+openpyxl
+
+
