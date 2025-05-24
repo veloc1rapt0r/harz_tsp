@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<gpx version="1.1" creator="ChatGPT">
+  <metadata>
+    <name>Harzer Lutherweg</name>
+  </metadata>
+  <wpt lat="51.51741" lon="11.61293">
+    <name>„Kalte Stelle“ Unterrißdorf</name>
+  </wpt>
+  <wpt lat="51.58723" lon="11.42797">
+    <name>Naturerlebnisstation Möllendorf „Am Brandberg“</name>
+  </wpt>
+  <wpt lat="51.5767" lon="11.38214">
+    <name>Schutzhütte Baumrode</name>
+  </wpt>
+  <wpt lat="51.56015" lon="11.28365">
+    <name>Naturerlebnisstation Wippra „Am Kleebeck“</name>
+  </wpt>
+  <wpt lat="51.56956" lon="11.19266">
+    <name>Wippertalsperre</name>
+  </wpt>
+  <wpt lat="51.57382" lon="11.15658">
+    <name>Naturerlebnisstation Dankerode „Am Heuweg“</name>
+  </wpt>
+  <wpt lat="51.57989" lon="11.0632">
+    <name>Feldflur Hayn</name>
+  </wpt>
+  <wpt lat="51.58061" lon="11.00553">
+    <name>Josephshöhe Auerberg</name>
+  </wpt>
+  <wpt lat="51.5718" lon="10.95271">
+    <name>Lutherbuche Stolberg</name>
+  </wpt>
+  <wpt lat="51.53735" lon="10.9285">
+    <name>Wolfsmühle Rodishain</name>
+  </wpt>
+</gpx>

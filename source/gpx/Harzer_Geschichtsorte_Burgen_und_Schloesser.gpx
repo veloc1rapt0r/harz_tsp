@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<gpx version="1.1" creator="ChatGPT">
+  <metadata>
+    <name>Harzer Geschichtsorte Burgen und Schlösser</name>
+  </metadata>
+  <wpt lat="51.7858" lon="11.1375">
+    <name>Schloss Quedlinburg</name>
+  </wpt>
+  <wpt lat="51.6818" lon="11.2659">
+    <name>Burg Falkenstein (Stempelstelle 200)</name>
+  </wpt>
+  <wpt lat="51.668" lon="11.1931">
+    <name>Burgruine Anhalt (Stempelstelle 197)</name>
+  </wpt>
+  <wpt lat="51.83993" lon="11.27182">
+    <name>Burgruine Hausneindorf</name>
+  </wpt>
+  <wpt lat="51.67172" lon="11.06138">
+    <name>Erichsburg</name>
+  </wpt>
+  <wpt lat="51.7867" lon="10.95407">
+    <name>Großes Schloss Blankenburg</name>
+  </wpt>
+  <wpt lat="51.636" lon="10.9723">
+    <name>Güntersburg</name>
+  </wpt>
+  <wpt lat="51.8269" lon="10.9113">
+    <name>Heimburg (Stempelstelle 84)</name>
+  </wpt>
+  <wpt lat="51.67643" lon="11.1345">
+    <name>Heinrichsburg</name>
+  </wpt>
+  <wpt lat="51.959" lon="11.001">
+    <name>Huysburg</name>
+  </wpt>
+  <wpt lat="51.72632" lon="11.08072">
+    <name>Lauenburg (Stempelstelle 187)</name>
+  </wpt>
+  <wpt lat="51.78838" lon="10.96008">
+    <name>Kleines Schloss Blankenburg</name>
+  </wpt>
+  <wpt lat="51.7882" lon="10.8398">
+    <name>Königspfalz Bodfeld</name>
+  </wpt>
+  <wpt lat="51.8741" lon="10.914">
+    <name>Königspfalz Derenburg</name>
+  </wpt>
+  <wpt lat="51.714" lon="11.348">
+    <name>Konradsburg bei Ermsleben (Stempelstelle 201)</name>
+  </wpt>
+  <wpt lat="51.7271" lon="11.197">
+    <name>Roseburg</name>
+  </wpt>
+  <wpt lat="51.8138" lon="10.9583">
+    <name>Burg Regenstein (Stempelstelle 80)</name>
+  </wpt>
+  <wpt lat="51.8767" lon="11.3169">
+    <name>Ruine Domburg im Hakel bei Heteborn</name>
+  </wpt>
+  <wpt lat="52.01044" lon="11.02971">
+    <name>Burg Schlanstedt</name>
+  </wpt>
+  <wpt lat="51.7181" lon="11.2199">
+    <name>Schloss Ballenstedt</name>
+  </wpt>
+  <wpt lat="52.0187" lon="10.7818">
+    <name>Schloss Hessen</name>
+  </wpt>
+  <wpt lat="51.8313" lon="10.7949">
+    <name>Schloss Wernigerode</name>
+  </wpt>
+  <wpt lat="51.64272" lon="11.14168">
+    <name>Schloss zu Harzgerode</name>
+  </wpt>
+  <wpt lat="51.6507" lon="10.9267">
+    <name>Selkenfelder Schanze</name>
+  </wpt>
+  <wpt lat="51.7699" lon="11.2072">
+    <name>Seweckenberge (-warte) bei Quedlinburg</name>
+  </wpt>
+  <wpt lat="51.7852" lon="11.1298">
+    <name>St. Wiperti</name>
+  </wpt>
+  <wpt lat="51.9036" lon="10.6697">
+    <name>Stapelburg</name>
+  </wpt>
+  <wpt lat="51.7309" lon="11.0883">
+    <name>Stecklenburg</name>
+  </wpt>
+  <wpt lat="51.7182" lon="10.9716">
+    <name>Treseburg</name>
+  </wpt>
+  <wpt lat="52.0153" lon="10.8664">
+    <name>Westerburg</name>
+  </wpt>
+  <wpt lat="51.7406" lon="11.0118">
+    <name>Winzenburg</name>
+  </wpt>
+  <wpt lat="51.9431" lon="10.8252">
+    <name>Wasserburg Zilly</name>
+  </wpt>
+</gpx>

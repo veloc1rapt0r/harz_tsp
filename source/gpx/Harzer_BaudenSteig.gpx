@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<gpx version="1.1" creator="ChatGPT">
+  <metadata>
+    <name>Harzer BaudenSteig</name>
+  </metadata>
+  <wpt lat="51.8198" lon="10.2452">
+    <name>Waldgasthaus Iberger Albertturm (Stempelstelle 130)</name>
+  </wpt>
+  <wpt lat="51.7281" lon="10.4033">
+    <name>Waldgaststätte Hanskühnenburg (Stempelstelle 144)</name>
+  </wpt>
+  <wpt lat="51.6674" lon="10.4301">
+    <name>Waldgaststätte Großer Knollen (Stempelstelle 150)</name>
+  </wpt>
+  <wpt lat="51.6408" lon="10.4722">
+    <name>Waldgaststätte Bismarckturm (Stempelstelle 115)</name>
+  </wpt>
+  <wpt lat="51.3785" lon="10.2781">
+    <name>Berggaststätte Hausberg</name>
+  </wpt>
+  <wpt lat="51.6288" lon="10.4089">
+    <name>Burgruine Scharzfeld (Stempelstelle 151)</name>
+  </wpt>
+  <wpt lat="51.635" lon="10.4044">
+    <name>Einhornhöhle (Stempelstelle 101)</name>
+  </wpt>
+  <wpt lat="51.3728" lon="10.3162">
+    <name>Ravensberg Baude „Berghof“</name>
+  </wpt>
+  <wpt lat="51.3972" lon="10.3452">
+    <name>Waldgasthaus Bahnhof Stöberhai</name>
+  </wpt>
+</gpx>

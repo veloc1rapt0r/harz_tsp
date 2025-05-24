@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<gpx version="1.1" creator="ChatGPT">
+  <metadata>
+    <name>Karstwanderweg Südharz</name>
+  </metadata>
+  <wpt lat="51.81987" lon="10.2452">
+    <name>Iberger Albertturm, Bad Grund (HWN 130)</name>
+  </wpt>
+  <wpt lat="51.81927" lon="10.22503">
+    <name>WeltWald, Bad Grund (HWN 129)</name>
+  </wpt>
+  <wpt lat="51.7578" lon="10.1978">
+    <name>Badenhäuser Königsstein, Oberhütte</name>
+  </wpt>
+  <wpt lat="51.72117" lon="10.17575">
+    <name>Burgruine Lichtenstein, Dorste</name>
+  </wpt>
+  <wpt lat="51.70042" lon="10.23188">
+    <name>Osteroder Feldherrenhügel, Osterode</name>
+  </wpt>
+  <wpt lat="51.69698" lon="10.26367">
+    <name>Dünaer Rötzelkamm, Düna</name>
+  </wpt>
+  <wpt lat="51.63502" lon="10.4044">
+    <name>Einhornhöhle, Scharzfeld (HWN 101)</name>
+  </wpt>
+  <wpt lat="51.62885" lon="10.40927">
+    <name>Burgruine Scharzfeld (HWN 151)</name>
+  </wpt>
+  <wpt lat="51.6004" lon="10.444">
+    <name>Westersteine, Bartolfelde</name>
+  </wpt>
+  <wpt lat="51.57688" lon="10.57523">
+    <name>Historischer Gipsbrennofen, Neuhof (HWN 192)</name>
+  </wpt>
+  <wpt lat="51.58073" lon="10.58385">
+    <name>Sachsensteinhütte, Neuhof (HWN 166)</name>
+  </wpt>
+  <wpt lat="51.58105" lon="10.6459">
+    <name>Hexentanzplatz, Ellrich (HWN 167)</name>
+  </wpt>
+  <wpt lat="51.55527" lon="10.76088">
+    <name>Wache auf dem Mühlberg, Niedersachswerfen</name>
+  </wpt>
+  <wpt lat="51.56713" lon="10.71803">
+    <name>Kelle, Appenrode</name>
+  </wpt>
+  <wpt lat="51.53047" lon="10.76167">
+    <name>Salzaspring, Nordhausen</name>
+  </wpt>
+  <wpt lat="51.5566" lon="10.82547">
+    <name>Harzer Holzdampflok, Neustadt (HWN 99)</name>
+  </wpt>
+  <wpt lat="51.51768" lon="10.85805">
+    <name>Glockensteine, Steigerthal (HWN 198)</name>
+  </wpt>
+  <wpt lat="51.49778" lon="10.94777">
+    <name>Reesbergdoline an der Heimkehle (HWN 214)</name>
+  </wpt>
+  <wpt lat="51.48897" lon="11.07793">
+    <name>Bauerngraben, Agnesdorf (HWN 213)</name>
+  </wpt>
+  <wpt lat="51.49327" lon="11.1172">
+    <name>Queste, Questenberg (HWN 212)</name>
+  </wpt>
+  <wpt lat="51.50133" lon="11.14183">
+    <name>Schöne Aussicht, Hainrode (HWN 210)</name>
+  </wpt>
+  <wpt lat="51.49562" lon="11.18477">
+    <name>Ankenberg, Großleinungen</name>
+  </wpt>
+  <wpt lat="51.53705" lon="11.27693">
+    <name>Bergbaulehrpfad, Wettelrode (HWN 222)</name>
+  </wpt>
+  <wpt lat="51.52548" lon="11.35863">
+    <name>Pölsfeld</name>
+  </wpt>
+</gpx>
