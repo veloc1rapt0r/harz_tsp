@@ -3,5 +3,6 @@
         "Harz",
         "infrusturucte",
         "komoot"
-    ]
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
 }
