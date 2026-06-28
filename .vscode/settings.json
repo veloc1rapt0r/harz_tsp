@@ -1,8 +1,14 @@
 {
     "cSpell.words": [
         "Harz",
-        "infrusturucte",
         "komoot"
     ],
     "python.envFile": "${workspaceFolder}/.env",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    }
+
 }
